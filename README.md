@@ -1,5 +1,5 @@
 # NodeJS Dev
-[Node.js] with focus on building backend with javascript.
+[Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) with focus on building backend with javascript.
 
 ## Run app
 
