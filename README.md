@@ -17,7 +17,7 @@ You can acces port 8080 and perform CRUD operations by using [phpMyAdmin UI](htt
 POST http://localhost:3000/api/users/add-new-user
 ```
 
-![DB User Interface](images/.gitkeep)
+![DB User Interface](images/mysql_db_nodejs_1.jpg)
 ## References
 - [10 Top Node.js Libraries and Tools For Machine Learning](https://www.corbado.com/blog/10-top-nodejs-libraries-machine-learning)
 - [11 GitHub Repositories to learn NodeJs](https://shefali.dev/github-repositories-to-learn-nodejs/)
